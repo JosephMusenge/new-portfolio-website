@@ -12,27 +12,35 @@ interface Experience {
 
 const experiences: Experience[] = [
   {
-    title: "Software Engineering Intern",
+    title: "Explore Software Engineering Intern",
     company: "Microsoft",
     location: "Redmond, WA",
     period: "06.2024 — 08.2024",
-    description: "Developed scalable cloud solutions using Azure services. Worked on improving system performance and implementing new features for enterprise clients.",
+    description: "Interned on the IC3 Platforms & AIOps team. Engineered scalable mapping and automation pipeline for Microsoft's internal support services. Designed clustering logic that improved incident classification accuracy by 70%.",
     current: false
   },
   {
-    title: "Software Development Intern",
+    title: "New Technologist (Software Engineering & PM) Intern",
     company: "Microsoft",
-    location: "Seattle, WA", 
+    location: "Redmond, WA", 
     period: "06.2023 — 08.2023",
-    description: "Built internal tools for developer productivity. Collaborated with cross-functional teams to deliver high-impact solutions.",
+    description: "Collaborated on development of a full-stack web application for luggage space management. Implemented backend integration using Node.js and Firebase for secure data management and user authentication.",
     current: false
   },
   {
-    title: "Hackathon Winner",
-    company: "TechCrunch Disrupt",
-    location: "San Francisco, CA",
-    period: "09.2023",
-    description: "First place winner for AI-powered productivity app. Led a team of 4 developers to create an innovative solution in 48 hours.",
+    title: "Data for Good Hackathon Winner",
+    company: "JP Morgan Chase & Co.",
+    location: "Plano, TX",
+    period: "04.2025",
+    description: "First place winner at the Data for Good hackathon. Led a team of 6 developers to create an innovative solution in 48 hours.",
+    current: false
+  },
+  {
+    title: "Future of Work Academy (FOWA) Tech Competition Winner",
+    company: "Hewlett Packard Inc. (HP Inc.)",
+    location: "Houston, TX",
+    period: "10.2023",
+    description: "First place winner for ChromaSoul project at HP's FOWA Future Tech Competition. Part of a team of 3 to develop an AI-powered art experience using Microsoft Azure Cognitive Services and Power BI.",
     current: false
   }
 ];
@@ -41,7 +49,7 @@ export const Experiences: React.FC = () => {
   return (
     <div className="max-w-2xl mx-auto">
       <div className="text-center mb-16">
-        <h1 className="text-2xl font-medium text-gray-900 mb-2">Experiences</h1>
+        <h1 className="text-2xl font-medium text-gray-900 mb-2">Professional Experiences</h1>
         <p className="text-gray-600">Professional journey and achievements</p>
       </div>
 

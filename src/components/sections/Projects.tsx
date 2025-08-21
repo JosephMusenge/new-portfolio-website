@@ -11,31 +11,31 @@ interface Project {
 
 const projects: Project[] = [
   {
-    title: "AI Code Assistant",
-    description: "An intelligent code completion tool powered by machine learning. Helps developers write better code faster with context-aware suggestions.",
-    tech: ["Python", "TensorFlow", "React", "Node.js"],
+    title: "NBA Trade Performance Analysis",
+    description: "Data-driven solution analyzing 12,000+ records to assess trade impacts on player stats. Built regression models showing significant performance declines and engineered custom box-plus-minus metric.",
+    tech: ["Python", "Pandas", "Matplotlib", "NumPy", "React", "TypeScript"],
     link: "#",
     featured: true
   },
   {
-    title: "Real-time Collaboration Platform",
-    description: "Web-based platform for seamless team collaboration with live editing, video calls, and project management features.",
-    tech: ["React", "WebRTC", "Socket.io", "MongoDB"],
-    link: "#",
+    title: "Smart Grocery & Recipe Recommender",
+    description: "Full-stack web app using ML-powered content filtering to match grocery lists with personalized recipe recommendations. Integrated Spoonacular API with custom AI ranking system.",
+    tech: ["TypeScript", "Python", "Flask", "Scikit-learn", "Spoonacular API"],
+    link: "https://github.com/JosephMusenge/Grocery-List-App", 
     featured: true
   },
   {
-    title: "Data Visualization Dashboard",
-    description: "Interactive dashboard for analyzing complex datasets with custom charts, filters, and export capabilities.",
-    tech: ["D3.js", "Vue.js", "Python", "PostgreSQL"],
-    link: "#",
+    title: "NVIDIA Stock Analysis Dashboard",
+    description: "Interactive stock analysis tool providing historical performance insights and buy recommendations for NVIDIA stock using moving averages and trend analysis.",
+    tech: ["Python", "Flask", "Streamlit", "Pandas", "Plotly"],
+    link: "https://github.com/JosephMusenge/NVIDIA-Stock-Price-App",
     featured: false
   },
   {
-    title: "Mobile Fitness Tracker",
-    description: "Cross-platform mobile app for fitness tracking with social features and personalized workout recommendations.",
-    tech: ["React Native", "Firebase", "Machine Learning"],
-    link: "#",
+    title: "African Music Discovery",
+    description: "Web app designed to explore and discover Afrobeats and diverse musical genres across African countries. Features interactive country selection and genre exploration interface.",
+    tech: ["React", "TypeScript", "Tailwind CSS", "API Integration"],
+    link: "https://github.com/JosephMusenge/African-Music-Discovery",
     featured: false
   }
 ];

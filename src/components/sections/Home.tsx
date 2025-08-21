@@ -5,7 +5,7 @@ export const Home: React.FC = () => {
     <div className="max-w-2xl mx-auto">
       <div className="text-center mb-16">
         <h1 className="text-2xl font-medium text-gray-900 mb-2">Joseph Musenge</h1>
-        <p className="text-gray-600">Computer Science & Mathematics</p>
+        <p className="text-gray-600">Computer Science & Mathematics Major</p>
       </div>
 
       <div className="space-y-12">
@@ -17,7 +17,7 @@ export const Home: React.FC = () => {
         <div className="space-y-8">
           <div className="flex justify-between items-start">
             <div className="flex-1">
-              <h3 className="text-lg font-medium text-gray-900 mb-1">Software Engineer</h3>
+              <h3 className="text-lg font-medium text-gray-900 mb-1">Software Engineering Intern</h3>
               <p className="text-gray-600 mb-2">Building the next generation of web applications</p>
             </div>
             <div className="text-right text-sm text-gray-500">Present</div>
@@ -37,15 +37,15 @@ export const Home: React.FC = () => {
 
         <div className="pt-8 border-t border-gray-100">
           <div className="flex space-x-6 text-sm">
-            <a href="mailto:your.email@example.com" className="text-gray-600 hover:text-gray-900 transition-colors relative group">
+            <a href="mailto:josephmusengep62@gmail.com" className="text-gray-600 hover:text-gray-900 transition-colors relative group">
               Email
               <span className="absolute bottom-0 left-0 w-0 h-px bg-gray-400 transition-all duration-300 group-hover:w-full"></span>
             </a>
-            <a href="https://linkedin.com/in/yourname" className="text-gray-600 hover:text-gray-900 transition-colors relative group">
+            <a href="https://linkedin.com/in/joseph-musenge" className="text-gray-600 hover:text-gray-900 transition-colors relative group">
               LinkedIn
               <span className="absolute bottom-0 left-0 w-0 h-px bg-gray-400 transition-all duration-300 group-hover:w-full"></span>
             </a>
-            <a href="https://github.com/yourname" className="text-gray-600 hover:text-gray-900 transition-colors relative group">
+            <a href="https://github.com/JosephMusenge" className="text-gray-600 hover:text-gray-900 transition-colors relative group">
               GitHub
               <span className="absolute bottom-0 left-0 w-0 h-px bg-gray-400 transition-all duration-300 group-hover:w-full"></span>
             </a>

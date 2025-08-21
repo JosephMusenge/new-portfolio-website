@@ -20,7 +20,7 @@ export const Contact: React.FC = () => {
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           <a 
-            href="mailto:your.email@example.com"
+            href="mailto:josephmusengep62@gmail.com"
             className="group bg-white border border-gray-100 rounded-lg p-6 text-center hover:shadow-lg transition-all duration-300 hover:border-gray-200 relative"
           >
             <div className="flex justify-center mb-3">
@@ -30,11 +30,11 @@ export const Contact: React.FC = () => {
               Email
               <span className="absolute bottom-0 left-1/2 transform -translate-x-1/2 w-0 h-px bg-gray-400 transition-all duration-300 group-hover:w-full"></span>
             </h3>
-            <p className="text-sm text-gray-600">your.email@example.com</p>
+            <p className="text-sm text-gray-600">Personal Email</p>
           </a>
 
           <a 
-            href="https://linkedin.com/in/yourname"
+            href="https://linkedin.com/in/joseph-musenge"
             className="group bg-white border border-gray-100 rounded-lg p-6 text-center hover:shadow-lg transition-all duration-300 hover:border-gray-200 relative"
           >
             <div className="flex justify-center mb-3">
@@ -48,7 +48,7 @@ export const Contact: React.FC = () => {
           </a>
 
           <a 
-            href="https://github.com/yourname"
+            href="https://github.com/JosephMusenge"
             className="group bg-white border border-gray-100 rounded-lg p-6 text-center hover:shadow-lg transition-all duration-300 hover:border-gray-200 relative"
           >
             <div className="flex justify-center mb-3">
@@ -64,7 +64,7 @@ export const Contact: React.FC = () => {
 
         <div className="text-center pt-8">
           <p className="text-sm text-gray-500">
-            Based in your location • Available for opportunities
+            Based in Memphis, TN • Available for Opportunities
           </p>
         </div>
       </div>

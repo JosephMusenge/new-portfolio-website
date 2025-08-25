@@ -15,7 +15,7 @@ const experiences: Experience[] = [
     title: "Explore Software Engineering Intern",
     company: "Microsoft",
     location: "Redmond, WA",
-    period: "06.2024 — 08.2024",
+    period: "05.2025 — 08.2025",
     description: "Interned on the IC3 Platforms & AIOps team. Engineered scalable mapping and automation pipeline for Microsoft's internal support services. Designed clustering logic that improved incident classification accuracy by 70%.",
     current: false
   },
@@ -23,7 +23,7 @@ const experiences: Experience[] = [
     title: "New Technologist (Software Engineering & PM) Intern",
     company: "Microsoft",
     location: "Redmond, WA", 
-    period: "06.2023 — 08.2023",
+    period: "06.2024 — 08.2024",
     description: "Collaborated on development of a full-stack web application for luggage space management. Implemented backend integration using Node.js and Firebase for secure data management and user authentication.",
     current: false
   },

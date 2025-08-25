@@ -5,7 +5,7 @@ export const Home: React.FC = () => {
     <div className="max-w-2xl mx-auto">
       <div className="text-center mb-16">
         <h1 className="text-2xl font-medium text-gray-900 mb-2">Joseph Musenge</h1>
-        <p className="text-gray-600">Computer Science & Mathematics Major</p>
+        <p className="text-gray-600">Rust College: BSc. Computer Science & Mathematics</p>
       </div>
 
       <div className="space-y-12">
@@ -18,17 +18,17 @@ export const Home: React.FC = () => {
           <div className="flex justify-between items-start">
             <div className="flex-1">
               <h3 className="text-lg font-medium text-gray-900 mb-1">Software Engineering Intern</h3>
-              <p className="text-gray-600 mb-2">Building the next generation of web applications</p>
+              <p className="text-gray-600 mb-2">Collaborating with faculty-led startup to develop innovative software solutions and architectural designs.</p>
             </div>
             <div className="text-right text-sm text-gray-500">Present</div>
           </div>
 
           <div className="flex justify-between items-start">
             <div className="flex-1">
-              <h3 className="text-lg font-medium text-gray-900 mb-1">Computer Science & Math Student</h3>
+              <h3 className="text-lg font-medium text-gray-900 mb-1">Computer Science & Math Major</h3>
               <p className="text-gray-600 mb-2">
-                Passionate about creating innovative solutions that solve real-world problems. 
-                Experienced in full-stack development, machine learning, and cloud technologies.
+                Junior pursuing a double major in Computer Science and Mathematics with a focus on software engineering and data science at Rust College. 
+                Experience in full-stack development, data science, and mathematical research.
               </p>
             </div>
             <div className="text-right text-sm text-gray-500">2023 — Present</div>
